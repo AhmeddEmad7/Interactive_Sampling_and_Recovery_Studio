@@ -6,6 +6,9 @@ Welcome to Medisampler, your gateway to precise medical signal processing. In th
 
 MediSampler is a desktop application designed for medical signal sampling and recovery. It demonstrates the critical concept of Nyquist–Shannon sampling theorem in the context of medical signals. The tool allows users to load, visualize, and sample signals at different frequencies, showcasing the importance of proper sampling rates for accurate signal recovery. With features like real-time processing, additive noise simulation, and customizable Signal-to-Noise Ratio (SNR), MediSampler is a versatile tool for medical signal processing enthusiasts.
 
+## Preview
+![Animation Gif](Demo.gif)
+
 ## Features
 
 - **Sample & Recover:**
@@ -31,9 +34,6 @@ MediSampler is a desktop application designed for medical signal sampling and re
 
 - **Diverse Sampling Scenarios for Medical Precision:**
   - Explore a range of scenarios meticulously designed for medical signal processing.
-
-## Preview
-![Animation Gif](Demo.gif)
 
 ## Usage
 
