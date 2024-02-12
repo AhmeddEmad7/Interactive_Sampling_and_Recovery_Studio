@@ -32,6 +32,9 @@ MediSampler is a desktop application designed for medical signal sampling and re
 - **Diverse Sampling Scenarios for Medical Precision:**
   - Explore a range of scenarios meticulously designed for medical signal processing.
 
+## Preview
+![Animation Gif](Demo.gif)
+
 ## Usage
 
 ### Sample & Recover
