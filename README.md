@@ -69,14 +69,6 @@ Explore diverse testing scenarios tailored for medical precision:
   - Analyze blood pressure oscillations in synthetic arterial pulsation signals.
   - Investigate how sampling frequency impacts the accuracy of oscillation detection.
   - Introduce additive noise to simulate clinical interference in blood pressure monitoring.
-    
-## A Glimpse Into the Future of Medical Signal Processing
-
-[Insert screenshots, GIFs, or video snippets showcasing Medisampler in action, particularly in medical contexts.]
-
-## Installation
-
-[Provide step-by-step instructions on how to install and run Medisampler for your medical signal processing needs.]
 
 ## Contributors
 
